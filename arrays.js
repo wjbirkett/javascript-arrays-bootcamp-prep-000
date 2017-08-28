@@ -5,4 +5,4 @@ var chocolateBars = [
   'skittles',
 ]
 
-chocolateBars.push("butterfinger");
+var addElementToEndOfArray = chocolateBars.push("butterfinger");
