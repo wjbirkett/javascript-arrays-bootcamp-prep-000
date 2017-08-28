@@ -8,3 +8,7 @@ var chocolateBars = [
 function addElementToBeginningOfArray() {
   chocolateBars.unshift("butterfinger");
 }
+
+function addElementToEndOfArray() {
+  chocolateBars.push("gummibears");
+}
